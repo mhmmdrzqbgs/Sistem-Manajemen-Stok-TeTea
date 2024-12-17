@@ -1,0 +1,29 @@
+.bg-footer-color {
+    background-color: #5161ce;
+    color: #ffffff;
+}
+
+.footer-bg a {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+}
+
+.footer-bg a:hover {
+    color: #dfe3fa;
+    text-decoration: underline;
+}
+.copyright-section {
+    background-color: #3440a1;
+    color: #ffffff;
+    padding: 10px 0;
+}
+
+.copyright-section a {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+}
+
+.copyright-section a:hover {
+    color: #dfe3fa;
+    text-decoration: underline;
+}
